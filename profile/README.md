@@ -24,7 +24,7 @@ conception to completion. Our iterative approach guarantees continuous improveme
 refinement, aligning the final product precisely with client expectations and emerging
 market trends.
 
-##Vitao — the honest AI résumé builder (our own product)
+## 📦 Vitao — the honest AI résumé builder (our own product)
 We design and operate Vitao: an ATS-optimized résumé builder with AI assistance and a fair
 one-time price. It's how we prove our product-engineering practice on our own dime.
 
